@@ -1,6 +1,6 @@
 ## Projeto pessoal utilizando NodeJs com Express | JavaScript | MySql. (1a versão)
 
-### Objetivo: Desenvolver um aplicativo para ser utilizado para cadastrar as crianças que são da organização primária da minha igreja (A Igreja de Jesus Cristo do Santo dos Ultimos Dias), crianças entre 1 ano e meio até 11 anos. Também registrar a qual classe pertence, dados dos pais e fazer o registro dos dias que as mesmas vão a igreja. Esta é 1a versão ainda visando somente o backend em uma base local para testar as APIs, muita coisa ainda falta a ser feita, vamos seguindo e aprimorando as versões.
+## Objetivo: Desenvolver um aplicativo para ser utilizado para cadastrar as crianças que são da organização primária da minha igreja (A Igreja de Jesus Cristo do Santo dos Ultimos Dias), crianças entre 1 ano e meio até 11 anos. Também registrar a qual classe pertence, dados dos pais e fazer o registro dos dias que as mesmas vão a igreja. Esta é 1a versão ainda visando somente o backend em uma base local para testar as APIs, muita coisa ainda falta a ser feita, vamos seguindo e aprimorando as versões.
 
 ### Faz as conexões com o banco de dados MySQL local. 
 
