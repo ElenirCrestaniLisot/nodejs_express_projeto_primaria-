@@ -16,5 +16,9 @@
 - no arquivo conexao.js informar os dados referente sua instalação do MySql
 - executar npm install
 - executar npm start (para subir o servidor)
-- testar os métodos GET, POST, PATCH e DELETE no Postman.
+- testar os métodos GET, POST, PATCH e DELETE no Postma na rota criancas.
+
+## Vídeo da demonstração no link https://youtu.be/dQCEhK2iLc0
+
+
 
